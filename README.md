@@ -1,6 +1,6 @@
 # Tutorial 4: Jeopardy
 
-### Group Members
+### Group 11
 | Full Name | ID | Email|
 | --- | --- | ---|
 Mithusan Arulampalam | 100787123 | mithusan.arulampalam@ontariotechu.net
